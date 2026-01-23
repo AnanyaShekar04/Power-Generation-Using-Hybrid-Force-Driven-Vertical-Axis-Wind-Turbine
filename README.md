@@ -24,11 +24,11 @@ This repository serves as a research archive containing the design documentation
 │   │                                        hybrid rotor design that combines Drag-based (Savonius) and
 │   │                                        Lift-based (Darrieus) forces to overcome self-starting limitations.
 │   │
-│   └── Main Published Paper.pdf            # Project Rep Comprehensive engineering documentation
-|                                             covering mechanical design, aspect ratio calculations, and material
-│                                             selection. It details the fabrication process, aerodynamic modeling,
-│                                             and performance testing of the prototype.
-│
+│   └── Main Published Paper.pdf          # Project Rep Comprehensive engineering documentation
+|   |                                       covering mechanical design, aspect ratio calculations, and material
+│   |                                       selection. It details the fabrication process, aerodynamic modeling,
+│   |                                       and performance testing of the prototype.
+│   └── Review Ppaer.pdf                  # Review Paper: This is a review paper published in the First stage of the project based on the literature review carried out  
 ├── Presentation/
 │   └── MAJOR PROJECT 2024.pptm           # Project defense slides summarizing the design process and results.
 └── README.md                             # Project overview and documentation.
